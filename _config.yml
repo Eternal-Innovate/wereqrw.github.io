@@ -1,4 +1,4 @@
 deploy:
   type: git
-  repo: git@github.com:Eternal-innovate/wereqrw.github.io.git
+  repo: git@github.com:Eternal-innovate/Eternal-Innovate.github.io.git
   branch: main
